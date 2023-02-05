@@ -1,6 +1,6 @@
 import pygame as pg
 import sys
-import firstNN as nn
+import network as nn
 import numpy as np
 import time
 import random
